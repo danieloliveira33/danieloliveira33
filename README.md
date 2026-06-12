@@ -10,7 +10,7 @@
 
 <div align="center" style="margin-bottom:100px">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=danieloliveira33&theme=dark&mode=weekly&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
-  <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=danieloliveira33&show_icons=true&theme=dark&layout=compact&title_color=FFD700&icon_color=FFD700" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieloliveira33&layout=compact&theme=dark&title_color=FFD700&icon_color=FFD700" />
 </div>
 
 ---
