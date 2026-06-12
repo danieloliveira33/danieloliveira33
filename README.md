@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  💻 Desenvolvedor em formação. <br><br>
+  💻 Desenvolvedor em formação pelo If Baiano. <br><br>
 </p>
 
 <div align="center" style="margin-bottom:100px">
