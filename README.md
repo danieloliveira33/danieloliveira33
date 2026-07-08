@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:FFD700&height=120&section=header"/>
 
 <div align="center">
-  <h1>Hello, I’m Daniel! 👋</h1>
+  <h1>Olá, Daniel aqui! 👋</h1>
 </div>
 
 <p align="center">
