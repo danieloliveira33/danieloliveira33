@@ -7,12 +7,12 @@
 <p align="center">
   💻 Desenvolvedor em formação pelo If Baiano. <br><br>
 </p>
-
+<!--
 <div align="center" style="margin-bottom:100px">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=danieloliveira33&theme=dark&mode=weekly&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieloliveira33&layout=compact&theme=dark" />
 </div>
-
+-->
 ---
 
 ## 🛠️ My Skills
