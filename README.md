@@ -16,14 +16,17 @@
 ---
 <!---->
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-
 ## 🛠️ My Skills
 
 ### 🌐 Front-end:
+
+<img 
+  align="right"
+  src="assets/3dPcTransparente.png"
+  width="450"
+/>
+
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -51,17 +54,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-<img src="assets/3Dcomputerimage.jpeg" width="420"/>
-
-</td>
-</tr>
-</table>
 
 
 ---
