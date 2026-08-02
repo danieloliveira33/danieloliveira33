@@ -7,13 +7,19 @@
 <p align="center">
   💻 Desenvolvedor em formação pelo If Baiano. <br><br>
 </p>
-<!--
+<!-- -->
 <div align="center" style="margin-bottom:100px">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=danieloliveira33&theme=dark&mode=weekly&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieloliveira33&layout=compact&theme=dark" />
 </div>
+
 ---
--->
+<!---->
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
 
 ## 🛠️ My Skills
 
@@ -27,7 +33,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Plone](https://img.shields.io/badge/Plone-007BBF?style=for-the-badge&logo=plone&logoColor=white)
+<!-- ![Plone](https://img.shields.io/badge/Plone-007BBF?style=for-the-badge&logo=plone&logoColor=white) -->
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
@@ -45,6 +51,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+
+
+</td>
+
+<td width="32%" align="center" valign="middle">
+
+<img src="assets/dev-3d.png" width="320"/>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
