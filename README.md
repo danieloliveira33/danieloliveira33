@@ -23,7 +23,7 @@
 <img 
   align="right"
   src="assets/3dPcTransparente.png"
-  width="450"
+  width="400"
 />
 
 
