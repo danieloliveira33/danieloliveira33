@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="50%" valign="top">
 
 
 ## 🛠️ My Skills
@@ -55,9 +55,9 @@
 
 </td>
 
-<td width="32%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
-<img src="assets/dev-3d.png" width="320"/>
+<img src="assets/3Dcomputerimage.jpeg" width="420"/>
 
 </td>
 </tr>
